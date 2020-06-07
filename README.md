@@ -1,4 +1,4 @@
-# architype-quarkus
+# archetype-quarkus
 Um modelo para criar novos projetos com Quarkus
 
 # crie o projeto

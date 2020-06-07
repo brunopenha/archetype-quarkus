@@ -3,9 +3,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.nom.penha.bruno.quarkus</groupId>
-	<artifactId>architype-quarkus</artifactId>
+	<artifactId>archetype-quarkus</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>architype-quarkus</name>
+	<name>archetype-quarkus</name>
 	<description>Modelo para novos projetos usandho Quarkus</description>
 	<url>http://bruno.penha.nom.br</url>
 	<inceptionYear>2020</inceptionYear>
@@ -18,9 +18,9 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git@github.com:brunopenha/architype-quarkus.git</connection>
-		<url>scm:git:git@github.com:brunopenha/architype-quarkus.git</url>
-		<developerConnection>scm:git:git@github.com:brunopenha/architype-quarkus.git</developerConnection>
+		<connection>scm:git:git@github.com:brunopenha/archetype-quarkus.git</connection>
+		<url>scm:git:git@github.com:brunopenha/archetype-quarkus.git</url>
+		<developerConnection>scm:git:git@github.com:brunopenha/archetype-quarkus.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 
