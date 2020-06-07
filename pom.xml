@@ -17,8 +17,8 @@
 
 	<scm>
 		<connection>scm:git:git@github.com:brunopenha/architype-quarkus.git</connection>
-		<url>scm:git:git@github.com:brunopenha/architype-quarkus.git</url>
-		<developerConnection>scm:git:git@github.com:brunopenha/architype-quarkus.git</developerConnection>
+		<url>scm:git:git@github.com:brunopenha/archetype-quarkus.git</url>
+		<developerConnection>scm:git:git@github.com:brunopenha/archetype-quarkus.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 
