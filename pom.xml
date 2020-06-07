@@ -1,10 +1,8 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.nom.penha.bruno.quarkus</groupId>
 	<artifactId>architype-quarkus</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>architype-quarkus</name>
 	<description>Modelo para novos projetos usandho Quarkus</description>
 	<url>http://bruno.penha.nom.br</url>
@@ -21,7 +19,7 @@
 		<connection>scm:git:git@github.com:brunopenha/architype-quarkus.git</connection>
 		<url>scm:git:git@github.com:brunopenha/architype-quarkus.git</url>
 		<developerConnection>scm:git:git@github.com:brunopenha/architype-quarkus.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>v0.0.1</tag>
 	</scm>
 
 	<properties>
