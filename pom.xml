@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.nom.penha.bruno.quarkus</groupId>
 	<artifactId>architype-quarkus</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>architype-quarkus</name>
 	<description>Modelo para novos projetos usandho Quarkus</description>
 	<url>http://bruno.penha.nom.br</url>
@@ -19,7 +19,7 @@
 		<connection>scm:git:git@github.com:brunopenha/architype-quarkus.git</connection>
 		<url>scm:git:git@github.com:brunopenha/architype-quarkus.git</url>
 		<developerConnection>scm:git:git@github.com:brunopenha/architype-quarkus.git</developerConnection>
-		<tag>v0.0.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<properties>
